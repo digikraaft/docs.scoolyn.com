@@ -1,1 +1,3 @@
 site_name: Scoolyn Documentation
+site_url: https://docs.scoolyn.com
+theme: readthedocs
