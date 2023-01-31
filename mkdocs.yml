@@ -1,3 +1,7 @@
-site_name: Scoolyn Documentation
+site_name: Scoolyn Docs
 site_url: https://docs.scoolyn.com
-theme: readthedocs
+theme:
+  name: material
+  custom_dir: overrides
+extra_css:
+  - css/style.css
