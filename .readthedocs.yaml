@@ -15,6 +15,5 @@ mkdocs:
 python:
   install:
     - method: pip
-      requirements:
-        - mkdocs-material
+      requirements: mkdocs-material
   system_packages: true
