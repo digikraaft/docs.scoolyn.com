@@ -1,10 +1,20 @@
 # How [Scoolyn](https://scoolyn.com) works
 
-This is the documentation website for the [Scoolyn](https://scoolyn.com) app.
+This is the documentation website for the [Scoolyn](https://scoolyn.com) app. 
 
-**Getting Started**.
+Here you will learn how to navigate though the School management App and learn how to use the tools to your own advantage. Also be sure that all of your doubts will be cleared in this document.
 
-**Welcome to Scoolyn**.
+[What is scoolyn](#WhatisScoolyn)  
+
+[Sign up for Scoolyn](#signingUpForScoolyn)
+
+
+
+
+
+<a name="WhatisScoolyn"> **What is Scoolyn** </a>
+---
+
 
 Scoolyn is a cloud based school management system that aids easy and efficient management of educational institutions like primary and secondary schools. It provides robust insight for administrators, teachers, students and parents and helps them make efficient decisions.
  
@@ -13,11 +23,15 @@ It is enough that most school management systems appear as complex pieces of com
 Scoolyn is quite easy to set up. If you can navigate through your mails with ease, then you can set up Scoolyn.
 
 
-**Signing up for Scoolyn**
+<a name="signingUpForScoolyn"> **Signing up for Scoolyn** </a>
+---
+
+To gain access to these management tools, A school administrator must sign up either from [Scoolyn](https://scoolyn.com) website or through an Agent
+
 
 [School Admin](docs.scoolyn.com/docs)
 
-[Parent]()
+
 
 
  
