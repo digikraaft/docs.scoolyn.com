@@ -15,7 +15,7 @@ Scoolyn is quite easy to set up. If you can navigate through your mails with eas
 
 **Signing up for Scoolyn**
 
-[School Admin]()
+[School Admin](docs.scoolyn.com/docs)
 
 [Parent]()
 
