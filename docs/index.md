@@ -93,8 +93,9 @@ Click _**‘Submit’**_ and go back to the *Dashboard.*
 
 <a name="AddingStudentFromDashboard"> **Adding Student From Dashboard** <a/>
 ---
-Click on “Go-to-Users/Student to Add Student” as shown by the arrow. 
+- Click on **“Go-to-Users/Student to Add Student”** as shown by the arrow. 
 
+ 
 
 
 
