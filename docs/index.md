@@ -81,6 +81,11 @@ To set report card breakdown, go to settings and click on _**‘Report card brea
 
 ![image has an arrow](https://github.com/digikraaft/docs.scoolyn.com/blob/emma/Set%20report%20card%20breakdown%20format.png) 
 
+Fill in the appropriate information and submit as shown below. 
+Note: Your school might have 2 or more Report cards per term. Fill according to how your school is set up. 
+
+
+
 
 
 
