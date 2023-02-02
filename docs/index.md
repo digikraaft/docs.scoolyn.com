@@ -73,7 +73,7 @@ Before uploading any information, you must set an academic session. This allows 
 
 - Upload the correct information and click on _**‘Save Academic session’** as shown below._
 
-![image has an arrow in it](https://github.com/digikraaft/docs.scoolyn.com/blob/emma/Set%20Academic%20Session.png) 
+![image has an arrow in it]() 
 
 - **Set Report card Breakdown**
 
