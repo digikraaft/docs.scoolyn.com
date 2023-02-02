@@ -62,13 +62,14 @@ Before uploading any information, you must set an academic session. This allows 
 
 
 
-- To set Academic session, _**Go to settings** 
+- To set Academic session, _**Go to settings**_
+ 
 
 ![Image has an arrow in it](https://github.com/digikraaft/docs.scoolyn.com/blob/emma/Settings.png)
 
-- Click on _**set academic session**
+- Click on _**set academic session**_
 
 ![Image has a dashboard in it](https://github.com/digikraaft/docs.scoolyn.com/blob/emma/Set%20Academic%20Session.png) 
 
-- Upload the correct information and click on _**‘Save Academic session’** as shown below. 
+- Upload the correct information and click on _**‘Save Academic session’** as shown below._ 
 
