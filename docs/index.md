@@ -11,6 +11,9 @@ Here you will learn how to navigate though the School management App and learn h
 [Configuring Scoolyn for the first time](#ConfiguringScoolynforthefirsttime) 
 
 [setting up](#Settingup)
+
+[Set Academic Session](#SetAcademicSession)
+
  
 <a name="WhatisScoolyn"> **What is Scoolyn** </a>
 ---
@@ -38,17 +41,12 @@ After setting up a presentation session with any of our marketers. Choose your p
 
 
 
-
-
-
-
- 
 <a name="ConfiguringScoolynforthefirsttime"> **Configuring Scoolyn for the first time** </a> 
 ---
 
 It is very essential to complete the to do list shown on your dashboard immediately after you sign in for the first time. This is important because the Scoolyn requires some basic information of your institute in order to perform different functions. You can easily add this info. By following the instructions given below,
 
-<a name="Settingup"> **Setting up**
+<a name="Settingup"> **Setting up** </a>
 
 When you sign in with your URL, username and password, This interface would be shown.
 
@@ -58,14 +56,12 @@ When you sign in with your URL, username and password, This interface would be s
 - Click and upload information in the required format.
 
 
-**Set Academic Session**
+ <a name="SetAcademicSession"> **Set Academic Session** </a>
 
 Before uploading any information, you must set an academic session. This allows you to set the academic calendar for the current session. E.g Current session: 2021/2022, Term: First term.
 
 
 
+-To set Academic session, Go to settings 
 
 
-
-
-To set Academic session, Go to settings 
