@@ -95,8 +95,7 @@ Click _**‘Submit’**_ and go back to the *Dashboard.*
 ---
 - Click on **“Go-to-Users/Student to Add Student”** as shown by the arrow. 
 
- 
-
+ ![Image has an arrow](https://github.com/digikraaft/docs.scoolyn.com/blob/emma/Add%20Student%201.png) 
 
 
 
