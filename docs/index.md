@@ -91,13 +91,17 @@ Note: Your school might have 2 or more Report cards per term. Fill according to 
 Click _**‘Submit’**_ and go back to the *Dashboard.*
 
 
+
 <a name="AddingStudentFromDashboard"> **Adding Student From Dashboard** <a/>
 ---
+ 
 - Click on **“Go-to-Users/Student to Add Student”** as shown by the arrow. 
 
  ![Image has an arrow](https://github.com/digikraaft/docs.scoolyn.com/blob/emma/Add%20Student%201.png) 
 
 
+- Fill in the required information of the student and add the student.
+ ![IMage has an arrow]()
 
 
 
