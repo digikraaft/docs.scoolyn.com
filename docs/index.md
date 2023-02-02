@@ -8,10 +8,10 @@ Here you will learn how to navigate though the School management App and learn h
 
 [Sign up for Scoolyn](#signingUpForScoolyn)
 
+[Configuring Scoolyn for the first time](#ConfiguringScoolynforthefirsttime) 
 
-
-
-
+[setting up](#Settingup)
+ 
 <a name="WhatisScoolyn"> **What is Scoolyn** </a>
 ---
 
@@ -28,18 +28,27 @@ Scoolyn is quite easy to set up. If you can navigate through your mails with eas
 
 To gain access to these management tools, A school administrator must sign up either from [Scoolyn](https://scoolyn.com) website or through an Agent
 
+**From Website** 
 
-[School Admin](docs.scoolyn.com/docs)
+Check out the features offered by each plan and select your preferred plan from our pricing list. Click on the ‘choose plan’ button and complete the registration process for your selected plan.
+
+**From Marketer** 
+
+After setting up a presentation session with any of our marketers. Choose your preferred plan and pay. After payment has been validated, you will receive a link to your School’s dashboard. 
+
+
+
 
 
 
 
  
-**Configuring Scoolyn for the first time**
+<a name="ConfiguringScoolynforthefirsttime"> **Configuring Scoolyn for the first time** </a> 
+---
 
 It is very essential to complete the to do list shown on your dashboard immediately after you sign in for the first time. This is important because the Scoolyn requires some basic information of your institute in order to perform different functions. You can easily add this info. By following the instructions given below,
 
-**Setting up**
+<a name="Settingup"> **Setting up**
 
 When you sign in with your URL, username and password, This interface would be shown.
 
