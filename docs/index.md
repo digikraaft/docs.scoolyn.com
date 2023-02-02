@@ -75,3 +75,13 @@ Before uploading any information, you must set an academic session. This allows 
 
 ![image has an arrow in it](https://github.com/digikraaft/docs.scoolyn.com/blob/emma/Set%20Academic%20Session.png) 
 
+- Set Report card Breakdown 
+
+To set report card breakdown, go to settings and click on _**‘Report card breakdown format’**_ as shown below. 
+
+
+
+
+
+
+
