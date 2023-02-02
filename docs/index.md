@@ -52,7 +52,7 @@ It is very essential to complete the to do list shown on your dashboard immediat
 
 When you sign in with your URL, username and password, This interface would be shown.
 
-![alt text]()
+![Image has a dashboard in it](https://github.com/digikraaft/docs.scoolyn.com/blob/emma/Scoonlyn%20Dashboard%20To-do%20list.png) 
 
 - An Unchecked list means you have not uploaded necessary information under each section. 
 - Click and upload information in the required format.
