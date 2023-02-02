@@ -62,6 +62,7 @@ Before uploading any information, you must set an academic session. This allows 
 
 
 
--To set Academic session, Go to settings 
+- To set Academic session, Go to settings 
 
+![Image has an arrow in it]()
 
