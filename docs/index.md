@@ -12,7 +12,7 @@ Here you will learn how to navigate though the School management App and learn h
 
 [setting up](#Settingup)
 
-[Set Academic Session](#SetAcademicSession)
+
 
  
 <a name="WhatisScoolyn"> **What is Scoolyn** </a>
