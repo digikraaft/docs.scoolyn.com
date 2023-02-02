@@ -58,11 +58,13 @@ When you sign in with your URL, username and password, This interface would be s
 
  <a name="SetAcademicSession"> **Set Academic Session** </a>
 
-Before uploading any information, you must set an academic session. This allows you to set the academic calendar for the current session. E.g Current session: 2021/2022, Term: First term.
+Before uploading any information, you must set an academic session. This allows you to set the academic calendar for the current session. **E.g Current session: 2021/2022, Term: First term**.
 
 
 
 - To set Academic session, Go to settings 
 
 ![Image has an arrow in it](https://github.com/digikraaft/docs.scoolyn.com/blob/emma/Settings.png)
+
+- Click on set academic session 
 
