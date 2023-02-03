@@ -17,7 +17,6 @@ Here you will learn how to navigate though the School management App and learn h
 [Adding Teacher from Dashboard](#AddingTeacherfromDashboard)
  
 <a name="WhatisScoolyn"> **What is Scoolyn** </a>
----
 
 
 Scoolyn is a cloud based school management system that aids easy and efficient management of educational institutions like primary and secondary schools. It provides robust insight for administrators, teachers, students and parents and helps them make efficient decisions.
@@ -28,7 +27,7 @@ Scoolyn is quite easy to set up. If you can navigate through your mails with eas
 
 
 <a name="signingUpForScoolyn"> **Signing up for Scoolyn** </a>
----
+
 
 To gain access to these management tools, A school administrator must sign up either from [Scoolyn](https://scoolyn.com) website or through an Agent
 
@@ -92,7 +91,7 @@ Click _**‘Submit’**_ and go back to the *Dashboard.*
 
 
 
-<a name="AddingStudentFromDashboard"> # Adding Student From Dashboard </a>
+<a name="AddingStudentFromDashboard"> **Adding Student From Dashboard** </a>
 
  
 - Click on **“Go-to-Users/Student to Add Student”** as shown by the arrow. 
@@ -111,7 +110,9 @@ You can also upload an excel document in a provided format containing student in
  ![image has an arrow](https://github.com/digikraaft/docs.scoolyn.com/blob/emma/Knowledge%20Base%20Scoolyn%20-%202nd%20screenshot.png)
   
 Click on **“Go to Users/Teachers to Add Teachers”** as shown above 
+
 Fill in required information as shown below.  
+
 
 
 
