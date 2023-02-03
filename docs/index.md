@@ -14,7 +14,7 @@ Here you will learn how to navigate though the School management App and learn h
 
 [Adding Student From Dashboard](#AddingStudentFromDashboard) 
 
-
+[Adding Teacher from Dashboard](#AddingTeacherfromDashboard)
  
 <a name="WhatisScoolyn"> **What is Scoolyn** </a>
 ---
@@ -92,7 +92,7 @@ Click _**‘Submit’**_ and go back to the *Dashboard.*
 
 
 
-<a name="AddingStudentFromDashboard"> **Adding Student From Dashboard** <a/>
+<a name="AddingStudentFromDashboard"> **Adding Student From Dashboard** </a>
 ---
  
 - Click on **“Go-to-Users/Student to Add Student”** as shown by the arrow. 
@@ -101,7 +101,17 @@ Click _**‘Submit’**_ and go back to the *Dashboard.*
 
 
 - Fill in the required information of the student and add the student.
- ![IMage has an arrow]()
+ 
+ ![IMage has an arrow](https://github.com/digikraaft/docs.scoolyn.com/blob/emma/knowledge%20base%20cropped.png) 
+ 
+You can also upload an excel document in a provided format containing student information.
+ 
+ <a name="AddingTeacherfromDashboard"> **Adding Teacher From Dashboard** </a> 
+ 
+ ![image has an arrow](
+ 
+Click on **“Go to Users/Teachers to Add Teachers”** as shown above 
+Fill in required information as shown below.  
 
 
 
