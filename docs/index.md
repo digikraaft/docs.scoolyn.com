@@ -92,8 +92,8 @@ Click _**‘Submit’**_ and go back to the *Dashboard.*
 
 
 
-<a name="AddingStudentFromDashboard"> **Adding Student From Dashboard** </a>
----
+<a name="AddingStudentFromDashboard"> # Adding Student From Dashboard </a>
+
  
 - Click on **“Go-to-Users/Student to Add Student”** as shown by the arrow. 
 
@@ -108,8 +108,8 @@ You can also upload an excel document in a provided format containing student in
  
  <a name="AddingTeacherfromDashboard"> **Adding Teacher From Dashboard** </a> 
  
- ![image has an arrow](
- 
+ ![image has an arrow](https://github.com/digikraaft/docs.scoolyn.com/blob/emma/Knowledge%20Base%20Scoolyn%20-%202nd%20screenshot.png)
+  
 Click on **“Go to Users/Teachers to Add Teachers”** as shown above 
 Fill in required information as shown below.  
 
