@@ -17,6 +17,8 @@ Here you will learn how to navigate though the School management App and learn h
 [Adding Teacher from Dashboard](#AddingTeacherfromDashboard)
 
 [Who can access Scoolyn](#WhocanaccessScoolyn)
+
+[FAQs](#FAQs)
  
 <a name="WhatisScoolyn"> **What is Scoolyn** </a>
 
@@ -161,7 +163,46 @@ Student login  <br>
 View attendance  <br>
 View report <br>
 
- 
+<a name="FAQs"> **FAQs** </a>
+
+FAQs
+
+- **What is Scoolyn?**
+
+Scoolyn is a cloud based school management system that aids easy and efficient management of educational institutions like primary and secondary schools. It provides robust insight for administrators, teachers, students and parents and helps them make efficient decisions.   
+
+- **How does Scoolyn help my School?**
+
+It allows you to automate your school operations. <br>
+It saves time and allows you to focus on other key operations
+
+- **Do I need a server or special set up to host Scoolyn for my school?**
+
+NO! You do not. Scoolyn is cloud based. You however require devices (desktop, laptop, smartphone, tablet) with internet connectivity to use Scoolyn.
+
+- **What educational institutions can use Scoolyn?** 
+
+Scoolyn is designed for nursery, primary and secondary schools. 
+
+- **Can I use Scoolyn for free?**
+
+No! You can't use Scoolyn for free. However our marketers will provide you with a demo presentation. We can also schedule a demo presentation with you when you [contact us](https://scoolyn.com)
+
+- **How much does Scoolyn cost?**
+
+We offer affordable plans. Please visit our [webiste](https://scoolyn.com) for detailed information about our plans.
+
+- **How can I pay for Scoolyn?**
+
+The fastest way to join the league and start using Scoolyn is to pay for a subscription using a credit/debit card . Alternatively, you may also pay by bank deposit/transfer.
+
+- **How long can I use Scoolyn for?**
+
+As long as you can. There is no time limit. Just renew your subscription annually.
+
+- **What level of support is available for Scoolyn?**
+
+Scoolyn has a growing knowledge base page which contains articles describing how to do different things like setting up your school accounts, adding a student to a school etc. Besides this, we also provide e-mail as well as remote support via telephone.
 
 
 
