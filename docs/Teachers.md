@@ -9,4 +9,6 @@ A teacher will be able to mark his/her class attendance once he/she has been onb
 
 - After logging in, you will be welcomed to your dashboard, where you will click on  **Student attendance**
 
-![has a 
+![has a dashboard](https://github.com/digikraaft/docs.scoolyn.com/blob/emma/Teacher%20-%20mark%20attendace.png)
+
+
