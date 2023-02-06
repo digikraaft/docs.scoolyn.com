@@ -113,6 +113,8 @@ Click on **“Go to Users/Teachers to Add Teachers”** as shown above
 
 Fill in required information as shown below.  
 
+![image has rectangular boxes](https://github.com/digikraaft/docs.scoolyn.com/blob/emma/Knowledge%20Base%20Scoolyn%20-%20add%20teacher.png) 
+
 
 
 
