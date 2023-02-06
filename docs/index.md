@@ -20,7 +20,6 @@ Here you will learn how to navigate through the School management App and learn 
 
 [Adding Teacher from Dashboard](https://github.com/digikraaft/docs.scoolyn.com/blob/emma/docs/school-admin.md)
 
-[Who can access Scoolyn](https://github.com/digikraaft/docs.scoolyn.com/blob/emma/docs/school-admin.md)
 
 # Teachers
 
