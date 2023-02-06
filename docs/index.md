@@ -2,15 +2,15 @@
 
 This is the documentation website for the [Scoolyn](https://scoolyn.com) app. 
 
-Here you will learn how to navigate though the School management App and learn how to use the tools to your own advantage. Also be sure that all of your doubts will be cleared in this document.
+Here you will learn how to navigate through the School management App and learn how to use the tools to your own advantage. Also be sure that all of your doubts will be cleared in this document.
 
 [What is scoolyn](#WhatisScoolyn)  
 
 [Sign up for Scoolyn](#signingUpForScoolyn)
 
-[Configuring Scoolyn for the first time](#ConfiguringScoolynforthefirsttime) 
-
 [setting up](#Settingup)
+
+[Configuring Scoolyn for the first time](#ConfiguringScoolynforthefirsttime) 
 
 [Adding Student From Dashboard](#AddingStudentFromDashboard) 
 
