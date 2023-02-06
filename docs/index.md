@@ -31,14 +31,18 @@ Here you will learn how to navigate through the School management App and learn 
 
 # Parents 
 
-[Parent login](https://github.com/digikraaft/docs.scoolyn.com/blob/emma/docs/Parents.md) 
-[View  attendance](https://github.com/digikraaft/docs.scoolyn.com/blob/emma/docs/Parents.md)  
+[Parent login](https://github.com/digikraaft/docs.scoolyn.com/blob/emma/docs/Parents.md)
+
+[View  attendance](https://github.com/digikraaft/docs.scoolyn.com/blob/emma/docs/Parents.md) 
+
 [View report](https://github.com/digikraaft/docs.scoolyn.com/blob/emma/docs/Parents.md)
 
 # Students
 
 [Student login](https://github.com/digikraaft/docs.scoolyn.com/blob/emma/docs/Students.md)
+
 [View attendance](https://github.com/digikraaft/docs.scoolyn.com/blob/emma/docs/Students.md)
+
 [View report](https://github.com/digikraaft/docs.scoolyn.com/blob/emma/docs/Students.md)
  
 
