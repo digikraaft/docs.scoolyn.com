@@ -24,10 +24,17 @@ Here you will learn how to navigate through the School management App and learn 
 
 # Teachers
 
-[Mark attendance]()
-[Add report]()
-[Edit report]()
+[Mark attendance](https://github.com/digikraaft/docs.scoolyn.com/blob/emma/docs/Teachers.md)
 
+[Add report](https://github.com/digikraaft/docs.scoolyn.com/blob/emma/docs/Teachers.md)
+
+[Edit report](https://github.com/digikraaft/docs.scoolyn.com/blob/emma/docs/Teachers.md)
+
+# Parents 
+
+[Parent login]() 
+[View  attendance]()  
+[View report]()
 
 [FAQs](#FAQs)
  
@@ -42,32 +49,10 @@ Scoolyn is quite easy to set up. If you can navigate through your mails with eas
 
 
 
-# Administrators
-
-Administrators have access to the overall management system and can oversee the whole activity carried out on Scoolyn. The Administrators can: 
-
-Edit School information <br>
-Add Fee <br>
-Edit Fee <br>
-Add a new class <br>
-Edit class <br>
-Add staff or teacher <br>
-Assign teacher to class  <br>
-Assign teacher to subject  <br>
-Add parent  <br>
- 
 
 
-# Teachers
-Teachers added by the Administrstor(s) can access scoolyn and can do the following:
 
 
-# Parent
-Parent/guardian added by the Administrstor(s) can access scoolyn and can do the following:
-
-Parent login  <br>
-View  attendance  <br>
-View report  <br>
 
 # Students
 Studentss added by the Administrstor(s) can access scoolyn and can do the following:
