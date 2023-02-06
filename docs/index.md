@@ -32,9 +32,12 @@ Here you will learn how to navigate through the School management App and learn 
 
 # Parents 
 
-[Parent login]() 
-[View  attendance]()  
-[View report]()
+[Parent login](https://github.com/digikraaft/docs.scoolyn.com/blob/emma/docs/Parents.md) 
+[View  attendance](https://github.com/digikraaft/docs.scoolyn.com/blob/emma/docs/Parents.md)  
+[View report](https://github.com/digikraaft/docs.scoolyn.com/blob/emma/docs/Parents.md)
+
+# Students
+
 
 [FAQs](#FAQs)
  
@@ -48,18 +51,6 @@ It is enough that most school management systems appear as complex pieces of com
 Scoolyn is quite easy to set up. If you can navigate through your mails with ease, then you can set up Scoolyn.
 
 
-
-
-
-
-
-
-# Students
-Studentss added by the Administrstor(s) can access scoolyn and can do the following:
-
-Student login  <br>
-View attendance  <br>
-View report <br>
 
 <a name="FAQs"> **FAQs** </a>
 
