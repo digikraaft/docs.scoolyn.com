@@ -22,6 +22,13 @@ Here you will learn how to navigate through the School management App and learn 
 
 [Who can access Scoolyn](https://github.com/digikraaft/docs.scoolyn.com/blob/emma/docs/school-admin.md)
 
+# Teachers
+
+[Mark attendance]()
+[Add report]()
+[Edit report]()
+
+
 [FAQs](#FAQs)
  
 <a name="WhatisScoolyn"> **What is Scoolyn** </a>
@@ -54,9 +61,6 @@ Add parent  <br>
 # Teachers
 Teachers added by the Administrstor(s) can access scoolyn and can do the following:
 
-Mark attendance  <br>
-Add report  <br>
-Edit report  <br>
 
 # Parent
 Parent/guardian added by the Administrstor(s) can access scoolyn and can do the following:
