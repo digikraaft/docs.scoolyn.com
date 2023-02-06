@@ -165,7 +165,6 @@ View report <br>
 
 <a name="FAQs"> **FAQs** </a>
 
-FAQs
 
 - **What is Scoolyn?**
 
