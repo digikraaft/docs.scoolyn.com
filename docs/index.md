@@ -124,42 +124,42 @@ Term Settings may be accessed via  **‘Settings >> Term Settings’** menu. Her
 
 <a name="WhocanaccessScoolyn"> **Who can access Scoolyn** </a>
 
-## Administrators
+# Administrators
 
 Administrators have access to the overall management system and can oversee the whole activity carried out on Scoolyn. The Administrators can: 
 
-Edit School information
-Add Fee
-Edit Fee
-Add a new class
-Edit class
-Add staff or teacher
-Assign teacher to class
-Assign teacher to subject
-Add parent
+Edit School information <br>
+Add Fee <br>
+Edit Fee <br>
+Add a new class <br>
+Edit class <br>
+Add staff or teacher <br>
+Assign teacher to class  <br>
+Assign teacher to subject  <br>
+Add parent  <br>
  
 
 
-## Teachers
+# Teachers
 Teachers added by the Administrstor(s) can access scoolyn and can do the following:
 
-Mark attendance
-Add report
-Edit report
+Mark attendance  <br>
+Add report  <br>
+Edit report  <br>
 
-## Parent
+# Parent
 Parent/guardian added by the Administrstor(s) can access scoolyn and can do the following:
 
-Parent login
-View  attendance
-View report
+Parent login  <br>
+View  attendance  <br>
+View report  <br>
 
-## Students
+# Students
 Studentss added by the Administrstor(s) can access scoolyn and can do the following:
 
-Student login
-View attendance
-View report
+Student login  <br>
+View attendance  <br>
+View report <br>
 
  
 
