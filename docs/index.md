@@ -35,7 +35,7 @@ Scoolyn is quite easy to set up. If you can navigate through your mails with eas
 
 To gain access to these management tools, A school administrator must sign up either from [Scoolyn](https://scoolyn.com) website or through an Agent
 
-**From Website** 
+**From Website**    
 
 Check out the features offered by each plan and select your preferred plan from our pricing list. Click on the ‘choose plan’ button and complete the registration process for your selected plan.
 
