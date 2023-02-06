@@ -8,7 +8,7 @@ Here you will learn how to navigate through the School management App and learn 
 
 [Sign up for Scoolyn](#signingUpForScoolyn)
 
-[setting up](#Settingup)
+[setting up](docs.scoolyn.com/docs/admin-)
 
 [Configuring Scoolyn for the first time](#ConfiguringScoolynforthefirsttime) 
 
