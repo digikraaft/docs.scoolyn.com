@@ -38,6 +38,10 @@ Here you will learn how to navigate through the School management App and learn 
 
 # Students
 
+[Student login]()
+[View attendance]()
+[View report]()
+ 
 
 [FAQs](#FAQs)
  
