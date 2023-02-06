@@ -15,6 +15,8 @@ Here you will learn how to navigate though the School management App and learn h
 [Adding Student From Dashboard](#AddingStudentFromDashboard) 
 
 [Adding Teacher from Dashboard](#AddingTeacherfromDashboard)
+
+[Who can access Scoolyn](#WhocanaccessScoolyn)
  
 <a name="WhatisScoolyn"> **What is Scoolyn** </a>
 
@@ -115,6 +117,51 @@ Fill in required information as shown below.
 
 ![image has rectangular boxes](https://github.com/digikraaft/docs.scoolyn.com/blob/emma/Knowledge%20Base%20Scoolyn%20-%20add%20teacher.png) 
 
+You can also upload an excel document in a provided format containing student information. For more information on how to upload excel documents, check using excel in this knowledge base. 
+
+It is important to specify the current session and term in Scoolyn. This helps to give the system a point of reference for associating data.
+Term Settings may be accessed via  **‘Settings >> Term Settings’** menu. Here, all information about the current session and term can be specified
+
+<a name="WhocanaccessScoolyn"> **Who can access Scoolyn** </a>
+
+## Administrators
+
+Administrators have access to the overall management system and can oversee the whole activity carried out on Scoolyn. The Administrators can: 
+
+Edit School information
+Add Fee
+Edit Fee
+Add a new class
+Edit class
+Add staff or teacher
+Assign teacher to class
+Assign teacher to subject
+Add parent
+ 
+
+
+## Teachers
+Teachers added by the Administrstor(s) can access scoolyn and can do the following:
+
+Mark attendance
+Add report
+Edit report
+
+## Parent
+Parent/guardian added by the Administrstor(s) can access scoolyn and can do the following:
+
+Parent login
+View  attendance
+View report
+
+## Students
+Studentss added by the Administrstor(s) can access scoolyn and can do the following:
+
+Student login
+View attendance
+View report
+
+ 
 
 
 
