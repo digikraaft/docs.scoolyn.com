@@ -91,3 +91,13 @@ You can also upload an excel document in a provided format containing student in
 It is important to specify the current session and term in Scoolyn. This helps to give the system a point of reference for associating data.
 Term Settings may be accessed via  **‘Settings >> Term Settings’** menu. Here, all information about the current session and term can be specified
 
+<a name="AddingParentsfromDashboard"> **Adding Parents from Dashboard** </a>
+
+![picture]()
+
+- Click on **"Go to users/Parents to Add Parents"** as shown above
+
+Fill the information shown below.
+
+![picture]()
+
