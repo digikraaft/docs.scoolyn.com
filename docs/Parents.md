@@ -7,5 +7,7 @@ parents/Guardians will be able to Log in to thier dashboard if they have been on
 
 # To view ward Attendance
 
-Parents/ guardians can view their wards attendance at school by;
-- 
+Parents/ guardians can view their ward's attendance at school by;
+- Clicking on **"Results"** as below. The result will be displayed if available
+
+![results]()
