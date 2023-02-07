@@ -21,4 +21,5 @@ A teacher will be able to mark his/her class attendance once he/she has been onb
 
 Click on **Submit** to Submit your marked attendance
 
-![has an arrow]()
+![has an arrow](https://github.com/digikraaft/docs.scoolyn.com/blob/emma/submit%20attendance.png)
+
