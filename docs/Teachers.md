@@ -23,3 +23,5 @@ A teacher will be able to mark his/her class attendance once he/she has been onb
 
 ![has an arrow](https://github.com/digikraaft/docs.scoolyn.com/blob/emma/submit%20attendance.png)
 
+# Add/Edit reports
+
