@@ -26,9 +26,8 @@ Here you will learn how to navigate through the School management App and learn 
 
 [Mark attendance](https://github.com/digikraaft/docs.scoolyn.com/blob/emma/docs/Teachers.md)
 
-[Add report](https://github.com/digikraaft/docs.scoolyn.com/blob/emma/docs/Teachers.md)
+[Add/Edit report](https://github.com/digikraaft/docs.scoolyn.com/blob/emma/docs/Teachers.md)
 
-[Edit report](https://github.com/digikraaft/docs.scoolyn.com/blob/emma/docs/Teachers.md)
 
 # Parents 
 
