@@ -19,7 +19,7 @@ A teacher will be able to mark his/her class attendance once he/she has been onb
 
 ![has an arrow](https://github.com/digikraaft/docs.scoolyn.com/blob/emma/attendance%20marked.png)
 
-Click on **Submit** to Submit your marked attendance
+- Click on **Submit** to Submit your marked attendance
 
 ![has an arrow](https://github.com/digikraaft/docs.scoolyn.com/blob/emma/submit%20attendance.png)
 
