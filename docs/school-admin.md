@@ -68,19 +68,19 @@ Click _**‘Submit’**_ and go back to the *Dashboard.*
 
 - Fill in the required information of the student and add the student.
  
- ![IMage has an arrow](https://github.com/digikraaft/docs.scoolyn.com/blob/emma/knowledge%20base%20cropped.png) 
+ ![IMage has an arrow]() 
  
 You can also upload an excel document in a provided format containing student information.
  
  <a name="AddingTeacherfromDashboard"> **Adding Teacher From Dashboard** </a> 
  
- ![image has an arrow](https://github.com/digikraaft/docs.scoolyn.com/blob/emma/Knowledge%20Base%20Scoolyn%20-%202nd%20screenshot.png)
+ ![image has an arrow]()
   
 Click on **“Go to Users/Teachers to Add Teachers”** as shown above 
 
 Fill in required information as shown below.  
 
-![image has rectangular boxes](https://github.com/digikraaft/docs.scoolyn.com/blob/emma/Knowledge%20Base%20Scoolyn%20-%20add%20teacher.png) 
+![image has rectangular boxes]() 
 
 You can also upload an excel document in a provided format containing student information. For more information on how to upload excel documents, check using excel in this knowledge base. 
 
