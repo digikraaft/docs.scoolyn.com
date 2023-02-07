@@ -27,15 +27,8 @@ When you sign in with your URL, username and password, This interface would be s
 
 Before uploading any information, you must set an academic session. This allows you to set the academic calendar for the current session. **E.g Current session: 2021/2022, Term: First term**.
 
-**Adding Parent from Dashboard**
-
-
-
-
-
 - To set Academic session, _**Go to settings**_
  
-
 ![Image has an arrow in it](https://github.com/digikraaft/docs.scoolyn.com/blob/emma/Settings.png)
 
 - Click on _**set academic session**_
