@@ -68,7 +68,7 @@ Click _**‘Submit’**_ and go back to the *Dashboard.*
 
 - Fill in the required information of the student and add the student.
  
- ![IMage has an arrow]() 
+ ![IMage has an arrow](https://github.com/digikraaft/docs.scoolyn.com/blob/emma/add%20new%20student.png) 
  
 You can also upload an excel document in a provided format containing student information.
  
