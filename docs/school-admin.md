@@ -74,7 +74,7 @@ You can also upload an excel document in a provided format containing student in
  
  <a name="AddingTeacherfromDashboard"> **Adding Teacher From Dashboard** </a> 
  
- ![image has an arrow]()
+ ![image has an arrow](https://github.com/digikraaft/docs.scoolyn.com/blob/emma/add%20teachr%202.png)
   
 Click on **“Go to Users/Teachers to Add Teachers”** as shown above 
 
