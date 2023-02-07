@@ -13,7 +13,7 @@ A teacher will be able to mark his/her class attendance once he/she has been onb
 
 - Click on the icon underneath **"ACTION"** as shown below
 
-![has an arrow]()
+![has an arrow](https://github.com/digikraaft/docs.scoolyn.com/blob/emma/student%20attendance%20-%20Action.png)
 
 - Mark either **present or Absent** as shown below
 
