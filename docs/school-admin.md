@@ -27,6 +27,10 @@ When you sign in with your URL, username and password, This interface would be s
 
 Before uploading any information, you must set an academic session. This allows you to set the academic calendar for the current session. **E.g Current session: 2021/2022, Term: First term**.
 
+**Adding Parent from Dashboard**
+
+
+
 
 
 - To set Academic session, _**Go to settings**_
@@ -76,7 +80,7 @@ You can also upload an excel document in a provided format containing student in
  
  ![image has an arrow](https://github.com/digikraaft/docs.scoolyn.com/blob/emma/add%20teachr%202.png)
   
-Click on **“Go to Users/Teachers to Add Teachers”** as shown above 
+- Click on **“Go to Users/Teachers to Add Teachers”** as shown above 
 
 Fill in required information as shown below.  
 
