@@ -86,7 +86,7 @@ Term Settings may be accessed via  **‘Settings >> Term Settings’** menu. Her
 
 <a name="AddingParentsfromDashboard"> **Adding Parents from Dashboard** </a>
 
-![picture]()
+![picture](https://github.com/digikraaft/docs.scoolyn.com/blob/emma/add%20parent%20arrow.png)
 
 - Click on **"Go to users/Parents to Add Parents"** as shown above
 
