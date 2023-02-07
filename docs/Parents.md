@@ -5,9 +5,14 @@ parents/Guardians will be able to Log in to thier dashboard if they have been on
 ![has blue](https://github.com/digikraaft/docs.scoolyn.com/blob/emma/parent%20login.png)
 
 
-# To view ward Attendance
+# To view ward's results
+Parents/ guardians can view their ward's results by;
 
-Parents/ guardians can view their ward's attendance at school by;
-- Clicking on **"Results"** as below. The result will be displayed if available
+- Clicking on **"Results"** as below. 
 
-![results]()
+![results](https://github.com/digikraaft/docs.scoolyn.com/blob/emma/parent-%20results.png)
+
+# To view ward's attendance
+
+- click on
+
