@@ -81,9 +81,6 @@ Fill in required information as shown below.
 
 You can also upload an excel document in a provided format containing student information. For more information on how to upload excel documents, check using excel in this knowledge base. 
 
-It is important to specify the current session and term in Scoolyn. This helps to give the system a point of reference for associating data.
-Term Settings may be accessed via  **‘Settings >> Term Settings’** menu. Here, all information about the current session and term can be specified
-
 <a name="AddingParentsfromDashboard"> **Adding Parents from Dashboard** </a>
 
 ![picture](https://github.com/digikraaft/docs.scoolyn.com/blob/emma/add%20parent%20arrow.png)
@@ -92,5 +89,7 @@ Term Settings may be accessed via  **‘Settings >> Term Settings’** menu. Her
 
 Fill the information shown below.
 
-![picture]()
+![picture](https://github.com/digikraaft/docs.scoolyn.com/blob/emma/add%20parent%20details.png)
 
+It is important to specify the current session and term in Scoolyn. This helps to give the system a point of reference for associating data.
+Term Settings may be accessed via  **‘Settings >> Term Settings’** menu. Here, all information about the current session and term can be specified
