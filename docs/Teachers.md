@@ -17,7 +17,7 @@ A teacher will be able to mark his/her class attendance once he/she has been onb
 
 - Mark either **present or Absent** as shown below
 
-![has an arrow]()
+![has an arrow](https://github.com/digikraaft/docs.scoolyn.com/blob/emma/attendance%20marked.png)
 
 Click on **Submit** to Submit your marked attendance
 
