@@ -11,4 +11,8 @@ A teacher will be able to mark his/her class attendance once he/she has been onb
 
 ![has a dashboard](https://github.com/digikraaft/docs.scoolyn.com/blob/emma/Teacher%20-%20mark%20attendace.png)
 
+- Click on the icon underneath **"ACTION"** as shown below
+
+![has an arrow](https://github.com/digikraaft/docs.scoolyn.com/blob/emma/Teacher%20-%20mark%20attendace.png)
+
 
