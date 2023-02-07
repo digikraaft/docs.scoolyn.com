@@ -80,7 +80,7 @@ Click on **“Go to Users/Teachers to Add Teachers”** as shown above
 
 Fill in required information as shown below.  
 
-![image has rectangular boxes]() 
+![image has rectangular boxes](https://github.com/digikraaft/docs.scoolyn.com/blob/emma/add%20new%20teacher.png) 
 
 You can also upload an excel document in a provided format containing student information. For more information on how to upload excel documents, check using excel in this knowledge base. 
 
