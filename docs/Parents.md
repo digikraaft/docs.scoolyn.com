@@ -12,7 +12,9 @@ Parents/ guardians can view their ward's results by;
 
 ![results](https://github.com/digikraaft/docs.scoolyn.com/blob/emma/parent-%20results.png)
 
-# To view ward's attendance
+# To view school fees status
 
-- click on
+- click on **School fees** to view whether your ward's fees has been sorted or pending
+
+![blue]()
 
