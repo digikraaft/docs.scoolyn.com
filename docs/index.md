@@ -33,7 +33,7 @@ Here you will learn how to navigate through the School management App and learn 
 
 [Parent login](https://github.com/digikraaft/docs.scoolyn.com/blob/emma/docs/Parents.md)
 
-[View  attendance](https://github.com/digikraaft/docs.scoolyn.com/blob/emma/docs/Parents.md) 
+[View School fees status](https://github.com/digikraaft/docs.scoolyn.com/blob/emma/docs/Parents.md) 
 
 [View report](https://github.com/digikraaft/docs.scoolyn.com/blob/emma/docs/Parents.md)
 
