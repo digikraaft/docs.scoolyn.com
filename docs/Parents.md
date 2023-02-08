@@ -16,5 +16,7 @@ Parents/ guardians can view their ward's results by;
 
 - click on **School fees** to view whether your ward's fees has been sorted or pending
 
-![blue]()
+![blue](https://github.com/digikraaft/docs.scoolyn.com/blob/emma/school%20fees%20status.png)
+
+
 
