@@ -8,8 +8,8 @@ Welcome, here you will know how you can help get Scoolyn across to schools. Also
 
 - To become an agent, visit [Scoolyn Agent](https://scoolyn.com/agents)
 - Fill the Form 
-- A feedback will be sent to you
-- An account will be set up for you where you will be able to log in an onboard schools.
+- A confirmation Email will be sent to you from where you will be directed to join a telegram group
+- An account will be set up for you where you will be able to log in to your dashboard and onboard schools.
 
 **Responsibilities as an Agent**
 
