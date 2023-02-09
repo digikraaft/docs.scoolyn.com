@@ -28,6 +28,14 @@ When you sign in with your URL, username and password, This interface would be s
 Before uploading any information, you must set an academic session. This allows you to set the academic calendar for the current session. **E.g Current session: 2021/2022, Term: First term**.
 
 - To set Academic session, _**Go to settings**_
+
+# Payment Analysis
+Adninistrators can veiw the payment analysis of students. the admin will know who has completed payment, who has paid nothing and who has paid part.
+
+![]()
+
+click on payment Analysis as seen above to view payment anaysis of students/pupils
+
  
 ![Image has an arrow in it](https://github.com/digikraaft/docs.scoolyn.com/blob/emma/Settings.png)
 
