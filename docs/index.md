@@ -45,6 +45,7 @@ Here you will learn how to navigate through the School management App and learn 
 
 [View report](https://github.com/digikraaft/docs.scoolyn.com/blob/emma/docs/Students.md)
  
+[Payment Analysis](https://github.com/digikraaft/docs.scoolyn.com/blob/emma/docs/Students.md)
 
 [FAQs](#FAQs)
  
