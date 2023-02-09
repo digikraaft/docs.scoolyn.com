@@ -3,6 +3,7 @@
 Welcome, here you will know how you can help get Scoolyn across to schools. Also, the requiremets for you to join us as an agent as well as the benefits attached to being an agent.
 
 **Note**: To become an agent means you agree to represent Scoolyn and perfom the understated responsibilities, performance of these responsibilities will be resultant to you getting the understated benefits.
+
 **How to become a Scoolyn agent**
 
 - To become an agent, visit [Scoolyn Agent](https://scoolyn.com/agents)
@@ -11,6 +12,7 @@ Welcome, here you will know how you can help get Scoolyn across to schools. Also
 - An account will be set up for you where you will be able to log in an onboard schools.
 
 **Responsibilities as an Agent**
+
 Your responsibilities as Agent includes the Following;
 
 - Get in touch with Schools and onboard them
@@ -22,6 +24,7 @@ Your responsibilities as Agent includes the Following;
 - Note also that as an Agent you will have direct contact with the schools you're managing and will only contact the developers if there is any technical issue beyond your resolve
 
 **What you stand to benefit as an Agent**
+
 Payment- you will be paid up to 15% commission on any school you onboard which means if you onboard 3 schools, you get up to 15% commission on all 3 schools.
 
 **NOTE**:
