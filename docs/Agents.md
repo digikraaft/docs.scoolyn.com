@@ -15,7 +15,7 @@ Welcome, here you will know how you can help get Scoolyn across to schools. Also
 
 Your responsibilities as Agent includes the Following;
 
-- Get in touch with Schools and onboard them
+- Getting in touch with Schools and onboard them
 
 - As an agent you will be required to set up such schools after onboarding. By settting up, you will put the school through the functionalities of Scoolyn and clear their doubts if any arises
 
