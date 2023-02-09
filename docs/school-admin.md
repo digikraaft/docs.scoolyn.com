@@ -61,11 +61,8 @@ Note: Your school might have 2 or more Report cards per term. Fill according to 
 
 Click _**‘Submit’**_ and go back to the *Dashboard.*
 
-
-
 <a name="AddingStudentFromDashboard"> **Adding Student From Dashboard** </a>
 
- 
 - Click on **“Go-to-Users/Student to Add Student”** as shown by the arrow. 
 
  ![Image has an arrow](https://github.com/digikraaft/docs.scoolyn.com/blob/emma/Add%20Student%201.png) 
@@ -101,3 +98,11 @@ Fill the information shown below.
 
 It is important to specify the current session and term in Scoolyn. This helps to give the system a point of reference for associating data.
 Term Settings may be accessed via  **‘Settings >> Term Settings’** menu. Here, all information about the current session and term can be specified
+
+# Payment Analysis
+School Administrators can  keep track of students fees payment. Payment anaysis helps the admin to know who has paid in full or who is defaulting 
+
+![blue](https://github.com/digikraaft/docs.scoolyn.com/blob/main/Admin%20payment%20analysis'.png)
+
+- Click on **Payment Analysis** as seen Above
+
