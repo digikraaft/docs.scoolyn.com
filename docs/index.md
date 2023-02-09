@@ -22,7 +22,7 @@ Here you will learn how to navigate through the School management App and learn 
 
 [Adding Parent from Dashboard](https://github.com/digikraaft/docs.scoolyn.com/blob/emma/docs/school-admin.md)
 
-[Payment Analysis](https://github.com/digikraaft/docs.scoolyn.com/blob/emma/docs/Students.md)
+[Payment Analysis](https://github.com/digikraaft/docs.scoolyn.com/blob/emma/docs/school-admin.md)
 # Teachers
 
 [Mark attendance](https://github.com/digikraaft/docs.scoolyn.com/blob/emma/docs/Teachers.md)
