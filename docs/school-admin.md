@@ -6,7 +6,7 @@ Check out the features offered by each plan and select your preferred plan. Clic
 
 **From Agent** 
 
-After setting up a presentation session with any of our marketers. Choose your preferred plan and pay. After payment has been validated, you will receive a link to your School’s dashboard. 
+After setting up a presentation session with any of our Agents. Choose your preferred plan and pay. After payment has been validated, you will receive a link to your School’s dashboard. 
 
  <a name="ConfiguringScoolynforthefirsttime"> **Configuring Scoolyn for the first time** </a> 
 ---
