@@ -7,7 +7,7 @@ A teacher will be able to mark his/her class attendance once he/she has been onb
 
 ![has two graduate pictures](https://github.com/digikraaft/docs.scoolyn.com/blob/emma/teacher%20log%20in.png)
 
-- After logging in, he/she will be welcomed the dashboard, where he/she will click on  **Student attendance**
+- After logging in, he/she will be welcomed to the dashboard, where he/she will click on  **Student attendance**
 
 ![has a dashboard](https://github.com/digikraaft/docs.scoolyn.com/blob/emma/Teacher%20-%20mark%20attendace.png)
 
